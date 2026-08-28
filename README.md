@@ -60,6 +60,15 @@ Weather-Spark-Visualization/
 
 ---
 
+
+## Results
+
+<div align="center">
+  <img src="temperature_chart.png" alt="Temperature chart" width="70%"/>
+  <img src="rainfall_chart.png" alt="Rainfall chart" width="70%"/>
+</div>
+
+---
 ## License
 
 MIT — free to use, modify and distribute.
