@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌦️ Weather-Spark-Visualization
+# 天气数据可视化 | Weather-Spark-Visualization
 
 ### Spark-based weather data analysis & visualization.
 
